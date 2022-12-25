@@ -1,0 +1,4 @@
+dup line
+dup line
+third line
+forth line
